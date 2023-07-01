@@ -2,7 +2,7 @@ package money;
 
 class Dollar extends Money {
 
-  private int amount = 10;
+  private int amount;
 
   Dollar(int amount) {
     this.amount = amount;
