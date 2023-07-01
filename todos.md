@@ -11,3 +11,4 @@
 * [ ] DollarとFrancの重複
 * [X] ~~*equalsの一般化*~~ [2023-07-01]
 * [ ] timesの一般化
+* [ ] FrancとDollarを比較する
