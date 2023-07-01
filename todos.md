@@ -4,5 +4,7 @@
 * [ ] amount を privateにする
 * [X] ~~*Dollarの副作用どうする？*~~ [2023-06-30]
 * [ ] Moneyの丸め処理どうする？
-* [ ] ValueObjectであるために、equals()を定義
+* [X] ~~*ValueObjectであるために、equals()を定義*~~ [2023-07-01]
 * [ ] ValueObjectであるために、hashCode()を定義
+* [ ] nullとの等価性比較
+* [ ] 他のオブジェクトとの透過性比較

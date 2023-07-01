@@ -12,7 +12,8 @@ class Dollar {
     return new Dollar(amount * multiplier);
   }
   
-  Boolean equals(Object object) {
-    return true; 
+  public boolean equals(Object object) {
+    Dollar dollar = (Dollar) object;
+    return amount == dollar.amount;
   }
 }
