@@ -10,7 +10,7 @@
 * [X] ~~*5CHF * 2 = 10CHF*~~ [2023-06-30]
 * [X] ~~*DollarとFrancの重複*~~ [2023-07-29]
 * [X] ~~*equalsの一般化*~~ [2023-07-01]
-* [ ] timesの一般化
+* [X] ~~*timesの一般化*~~ [2023-07-29]
 * [X] ~~*FrancとDollarを比較する*~~ [2023-07-01]
 * [X] ~~*通貨の概念*~~ [2023-07-01]
-* [ ] testFrancMultiplicationを削除する？
+* [X] ~~*testFrancMultiplicationを削除する？*~~ [2023-07-29]
