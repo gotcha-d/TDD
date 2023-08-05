@@ -5,4 +5,4 @@
 * [X] ~~*Moneyを変換して換算を行う*~~ [2023-08-05]
 * [X] ~~*Reduce(Bank,String)*~~ [2023-08-05]
 * [X] ~~*Sum.plus*~~ [2023-08-05]
-* [ ] Expression.times
+* [X] ~~*Expression.times*~~ [2023-08-05]
