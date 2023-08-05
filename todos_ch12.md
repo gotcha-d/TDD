@@ -4,5 +4,5 @@
 * [X] ~~*Bank.reduce(Money);*~~ [2023-08-05]
 * [X] ~~*Moneyを変換して換算を行う*~~ [2023-08-05]
 * [X] ~~*Reduce(Bank,String)*~~ [2023-08-05]
-* [ ] Sum.plus
+* [X] ~~*Sum.plus*~~ [2023-08-05]
 * [ ] Expression.times
